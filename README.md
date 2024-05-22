@@ -72,7 +72,8 @@ highlights the potential for these processors to revolutionize various fields by
 References
 22/5/24, 14:08 Neural Microprocessors in Latent State
 
-![neural_microprocessor_schematic](https://github.com/Agnuxo1/Neural-Microprocessors-in-Latent-State-/assets/166046035/67074938-38b4-4015-ac17-8a5940a4db0b)
+![bitnet_advantages](https://github.com/Agnuxo1/Neural-Microprocessors-in-Latent-State-/assets/166046035/02876c76-341e-4419-9523-714de6bdb272)
+
 
  References
  [1] S. Ma, H. Wang, L. Ma, L. Wang, W. Wang, S. Huang, L. Dong, R. Wang,
